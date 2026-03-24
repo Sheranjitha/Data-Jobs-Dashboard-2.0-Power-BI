@@ -1,0 +1,2 @@
+# Data Jobs Dashboard 2.0 Power BI
+Developed a guided project dashboard (V2.0) to help Job Seekers, Career Changers, and Job Swappers navigate the data job market efficiently. Leveraging a real-world 2024 data science job postings dataset containing information on titles, salaries, and locations, the single-page interactive dashboard provides a streamlined interface to explore market trends, compensation insights, and key career opportunities.
